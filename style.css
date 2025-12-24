@@ -1,0 +1,73 @@
+/* ===== Reset & Base ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    body {
+    font-family: "Noto Serif Telugu", "Segoe UI", Arial, sans-serif;
+    background-color: #f2f6f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* ===== Header ===== */
+header {
+    background: linear-gradient(to right, #0f9d58, #2e7d32);
+    color: #fff;
+    padding: 25px 15px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.2rem;
+    margin-bottom: 5px;
+}
+
+header p {
+    font-size: 1rem;
+    opacity: 0.95;
+}
+
+/* ===== Navigation ===== */
+nav {
+    background-color: #1f2933;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 6px 12px;
+    font-size: 0.95rem;
+    padding: 6px 10px;
+    border-radius: 4px;
+    transition: background 0.3s;
+}
+
+nav a:hover {
+    background-color: #0f9d58;
+}
+
+/* ===== Sections ===== */
+section {
+    background: #fff;
+    margin: 20px auto;
+    padding: 20px;
+    width: 92%;
+    max-width: 1000px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+section h2 {
+    color: #0f
+#map iframe {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
